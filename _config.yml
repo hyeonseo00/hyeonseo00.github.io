@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Hyeonseo Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Integrated MS/PhD Student"
+  bio              : "Integrated MS/PhD Candidate"
   location         : "Ulsan, Republic of Korea"
   employer         : "UNIST (Ulsan National Institute of Science and Technology)"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hyeonseo00"
+  github           : # "hyeonseo00"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
